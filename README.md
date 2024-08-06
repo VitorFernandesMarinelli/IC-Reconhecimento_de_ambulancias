@@ -1,2 +1,4 @@
 # IC-Reconhecimento_de_ambulancias
- Aqui tem os dados e modelos usados em uma iniciação cientifica cujo o objetivo era indentificar qual a melhor forma de reconhecer um ambulatorio movel
+Aqui cotem os dados de uma iniciação cientifica que tem como objetivo indentificar qual é o melhor metodo para reconhecer ambulatorios moveis do SAMU.
+
+Foi utilizado o programa matlab, e os modelos YOLO v4 
